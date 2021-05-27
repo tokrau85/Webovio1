@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6168eeaf-19a0-457e-a349-a67e618bb12d" name="Default" comment="каскадные блоки">
+    <list default="true" id="6168eeaf-19a0-457e-a349-a67e618bb12d" name="Default" comment="каскадные блоки over! new class-text">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/menu.css" afterDir="false" />
@@ -167,7 +167,8 @@
       <workItem from="1621156508727" duration="653000" />
       <workItem from="1621157268812" duration="5419000" />
       <workItem from="1621850450015" duration="12516000" />
-      <workItem from="1622025107234" duration="13135000" />
+      <workItem from="1622025107234" duration="13228000" />
+      <workItem from="1622104799157" duration="13105000" />
     </task>
     <task id="LOCAL-00001" summary="каскадные блоки">
       <created>1621164794311</created>
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621164794312</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="каскадные блоки over! new class-text">
+      <created>1622046621678</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622046621678</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -209,7 +217,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="каскадные блоки" />
-    <option name="LAST_COMMIT_MESSAGE" value="каскадные блоки" />
+    <MESSAGE value="каскадные блоки over! new class-text" />
+    <option name="LAST_COMMIT_MESSAGE" value="каскадные блоки over! new class-text" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
