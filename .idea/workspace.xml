@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6168eeaf-19a0-457e-a349-a67e618bb12d" name="Default" comment="каскадные блоки over! new class-text">
+    <list default="true" id="6168eeaf-19a0-457e-a349-a67e618bb12d" name="Default" comment="фуфло">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/menu.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,10 +123,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Philips" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -168,7 +168,12 @@
       <workItem from="1621157268812" duration="5419000" />
       <workItem from="1621850450015" duration="12516000" />
       <workItem from="1622025107234" duration="13228000" />
-      <workItem from="1622104799157" duration="13105000" />
+      <workItem from="1622104799157" duration="13153000" />
+      <workItem from="1629103796761" duration="626000" />
+      <workItem from="1629104436472" duration="1185000" />
+      <workItem from="1629106989216" duration="19000" />
+      <workItem from="1629107019847" duration="192000" />
+      <workItem from="1629107225232" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="каскадные блоки">
       <created>1621164794311</created>
@@ -184,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622046621678</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="GAME OVER">
+      <created>1622130630375</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622130630375</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -215,10 +227,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="каскадные блоки" />
     <MESSAGE value="каскадные блоки over! new class-text" />
-    <option name="LAST_COMMIT_MESSAGE" value="каскадные блоки over! new class-text" />
+    <MESSAGE value="GAME OVER" />
+    <option name="LAST_COMMIT_MESSAGE" value="GAME OVER" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
